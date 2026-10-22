@@ -1,6 +1,6 @@
 # Vertical Spring Simulation
 
-A Manim animation of a mass moving on a vertical spring, with its motion calculated using the RK4 method.
+A Manim animation of a mass moving on a vertical spring, with its motion calculated using the RK4 method
 
 ![Vertical spring simulation](assets/VerticalSpring.gif)
 
@@ -15,3 +15,8 @@ This project requires [uv](https://docs.astral.sh/uv/), a Python dependency mana
 ```powershell
 uv run manim -pql "RK4 Vertical Spring.py" Animation
 ```
+
+# Dependencies
+
+- Manim (Community Edition)
+- uv 
